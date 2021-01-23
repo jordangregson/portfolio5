@@ -1,0 +1,53 @@
+* {
+    background-color: #001046;
+    margin: 0;
+}
+
+.logo {
+    margin-left: 2vw;
+}
+
+.nav {
+    position: fixed;
+    list-style: none;
+    
+    max-width: 25vw;
+}
+
+.nav-line {
+    height: .3vw;
+    width: 5vw;
+    background-color: white;
+
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+    margin-left: -1vw;
+}
+
+.home {
+    margin-left: .1vw;
+}
+
+.laptop {
+    margin-left: .1vw;
+    
+}
+
+.camera {
+    margin-left: .1vw;
+}
+
+.profile {
+    margin-left: .1vw;
+}
+
+.navbar {
+    padding-top: 10vh;
+}
+
+.main-content {
+    font-size: 9vw;
+
+    margin-left: 200px;
+    
+}

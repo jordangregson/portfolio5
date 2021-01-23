@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="47" viewBox="0 0 48 47">
+  <g id="Home" transform="translate(-26 -275)">
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(31 291)" fill="#fff" stroke="#fff" stroke-width="3">
+      <rect width="38" height="31" rx="4" stroke="none"/>
+      <rect x="1.5" y="1.5" width="35" height="28" rx="2.5" fill="none"/>
+    </g>
+    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(31 291)" fill="#fff" stroke="#fff" stroke-width="3">
+      <rect width="38" height="24" rx="1" stroke="none"/>
+      <rect x="1.5" y="1.5" width="35" height="21" rx="0.5" fill="none"/>
+    </g>
+    <path id="Path_1" data-name="Path 1" d="M24,0,48,18H0Z" transform="translate(26 275)" fill="#fff"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="8" height="14" transform="translate(46 306)" fill="#001046"/>
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="0.5" cy="0.5" r="0.5" transform="translate(47 314)" fill="#fff"/>
+    <line id="Line_31" data-name="Line 31" x2="38.3" transform="translate(30.8 293.1)" fill="none" stroke="#001046" stroke-width="0.3"/>
+  </g>
+</svg>

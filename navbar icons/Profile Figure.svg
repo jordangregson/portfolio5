@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="55" viewBox="0 0 44 55">
+  <g id="Profile_Figure" data-name="Profile Figure" transform="translate(-14 -529)">
+    <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="22" cy="15" rx="22" ry="15" transform="translate(14 554)" fill="#fff"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="43.7" height="13" rx="6" transform="translate(14.1 571)" fill="#fff"/>
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="43.7" height="7" transform="translate(14.1 571)" fill="#fff"/>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(20 529)" fill="#fff" stroke="#4b4b4b" stroke-width="1">
+      <circle cx="16" cy="16" r="16" stroke="none"/>
+      <circle cx="16" cy="16" r="15.5" fill="none"/>
+    </g>
+    <text id="About_Me" data-name="About Me" transform="translate(17 575)" fill="#434343" font-size="8" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">About Me</tspan></text>
+  </g>
+</svg>
